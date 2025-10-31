@@ -10,7 +10,7 @@ This project follows a microservices architecture with separate frontend and bac
   - RESTful API built with Spring Boot
   - Java, Spring Data JPA, (H2 currently for development, PostgreSQL soon)
   
-- **Frontend UI**: [employee-scheduling-frontend](https://github.com/YOUR_USERNAME/employee-scheduling-frontend)
+- **Frontend UI**: [employee-scheduling-frontend](https://github.com/jbear05/employee-scheduling-frontend)
   - Modern React SPA with React Router
   - JavaScript/React, Axios, date-fns
 
