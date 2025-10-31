@@ -79,4 +79,4 @@ See the [backend repository](https://github.com/YOUR_USERNAME/employee-schedulin
 ## 👤 Author
 
 Jair Garcia Fonseca
-- LinkedIn: [https://linkedin.com/in/jairg](https://www.linkedin.com/in/jair-garcia-fonseca/)
+- LinkedIn: [https://www.linkedin.com/in/jair-garcia-fonseca/](https://www.linkedin.com/in/jair-garcia-fonseca/)
