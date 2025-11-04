@@ -55,14 +55,14 @@ This project follows a microservices architecture with separate frontend and bac
 
 ## 📸 Screenshots
 
-UI screenshots coming soon
+UI screenshots coming soon!
 
 ## 🛠️ Tech Stack
 
 ### Backend
 - Spring Boot 3.5.7
 - Spring Data JPA
-- MySQL/PostgreSQL
+- H2(current) MySQL/PostgreSQL coming soon!
 - Maven
 
 ### Frontend
@@ -74,7 +74,7 @@ UI screenshots coming soon
 
 ## 📋 API Documentation
 
-See the [backend repository](https://github.com/YOUR_USERNAME/employee-scheduling-backend) for detailed API endpoints.
+See the [backend repository](https://github.com/jbear05/employee-scheduling-backend) for detailed API endpoints.
 
 ## 👤 Author
 
